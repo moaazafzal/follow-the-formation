@@ -1,6 +1,4 @@
 ![Alt text](moving.gif) / ![](moving.gif)
-![Alt text](killing.gif) / ![](killing.gif)
-
 
 Unity Path-Following Objects
 Demonstration of path-following objects in Unity, ideal for games featuring organized movements along predefined paths or formations.
@@ -21,3 +19,4 @@ This project is licensed under the MIT License.
 Acknowledgments
 Mention any external libraries or resources used in this project.
 Credit individuals or projects that inspired or guided the implementation.
+![Alt text](killing.gif) / ![](killing.gif)
